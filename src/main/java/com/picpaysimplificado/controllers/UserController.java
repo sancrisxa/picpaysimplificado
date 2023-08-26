@@ -1,4 +1,4 @@
-package com.picpaysimplificado;
+package com.picpaysimplificado.controllers;
 
 import com.picpaysimplificado.domain.user.User;
 import com.picpaysimplificado.dtos.UserDTO;
